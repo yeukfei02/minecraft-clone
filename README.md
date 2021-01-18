@@ -1,7 +1,7 @@
 # minecraft-clone
 
 <p align="center">
-  <img width="50%" height="50%" src="https://github.com/yeukfei02/minecraft-clone/blob/main/screenshot.png?raw=true" alt="">
+  <img width="70%" height="70%" src="https://github.com/yeukfei02/minecraft-clone/blob/main/screenshot.png?raw=true" alt="">
 </p>
 
 minecraft-clone
