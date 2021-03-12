@@ -12,7 +12,7 @@ url: https://simmer.io/@yeukfei02/minecreaft-clone
 
 ## Requirement:
 
-- install unity (v2020.2.1f1)
+- install unity (v2020.3.0f1)
 
 ## Testing and run:
 
