@@ -8,12 +8,12 @@ minecraft-clone
 
 `WASD` to move player, `left click` to grab object, `right click` to place new object
 
-url: https://simmer.io/@yeukfei02/minecreaft-clone
+url: <https://simmer.io/@yeukfei02/minecreaft-clone>
 
-## Requirement:
+## Requirement
 
 - install unity (v2020.3.0f1)
 
-## Testing and run:
+## Testing and run
 
 - open project in unity
